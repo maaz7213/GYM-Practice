@@ -1,6 +1,6 @@
 #The page is deployed on the heuroko 
   
-https://git.heroku.com/gym-react.git
+https://gym-react.herokuapp.com/
 
 # Getting Started with Create React App
 
