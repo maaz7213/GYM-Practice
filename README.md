@@ -1,3 +1,7 @@
+#The page is deployed on the heuroko 
+  
+https://git.heroku.com/gym-react.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
