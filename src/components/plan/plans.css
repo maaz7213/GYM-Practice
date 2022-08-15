@@ -95,4 +95,9 @@
     {
         transform: none;
     }
+    .plan-blur-2 {
+    width: 25rem;
+    height: 23rem;
+    left: 0rem;
+    }
 }
